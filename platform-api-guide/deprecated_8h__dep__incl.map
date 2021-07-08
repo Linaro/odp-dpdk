@@ -1,0 +1,22 @@
+<map id="deprecated.h" name="deprecated.h">
+<area shape="rect" id="node2" href="$abi-default_2classification_8h_source.html" title="classification.h" alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$spec_2crypto_8h.html" title="ODP crypto. " alt="" coords="618,229,693,256"/>
+<area shape="rect" id="node7" href="$spec_2packet__io_8h.html" title="ODP Packet IO. " alt="" coords="219,304,316,331"/>
+<area shape="rect" id="node13" href="$spec_2packet__io__stats_8h.html" title="ODP Packet IO statistics. " alt="" coords="199,80,335,107"/>
+<area shape="rect" id="node15" href="$queue__types_8h.html" title="ODP queue types. " alt="" coords="359,80,477,107"/>
+<area shape="rect" id="node4" href="$crypto_8h.html" title="ODP crypto. " alt="" coords="465,304,539,331"/>
+<area shape="rect" id="node5" href="$spec_2ipsec_8h.html" title="ODP IPSEC API. " alt="" coords="305,603,373,629"/>
+<area shape="rect" id="node6" href="$ipsec_8h.html" title="ODP IPSEC API &#45; platform specific header. " alt="" coords="305,677,373,704"/>
+<area shape="rect" id="node8" href="$packet__io_8h.html" title="ODP Packet IO. " alt="" coords="220,379,317,405"/>
+<area shape="rect" id="node9" href="$spec_2classification_8h.html" title="ODP classification descriptor. " alt="" coords="211,453,329,480"/>
+<area shape="rect" id="node11" href="$spec_2traffic__mngr_8h.html" title="Copyright (c) 2015&#45;2018, Linaro Limited All rights reserved. " alt="" coords="353,453,465,480"/>
+<area shape="rect" id="node10" href="$classification_8h.html" title="ODP classification descriptor. " alt="" coords="211,528,329,555"/>
+<area shape="rect" id="node12" href="$traffic__mngr_8h.html" title="ODP Traffic manager. " alt="" coords="353,528,465,555"/>
+<area shape="rect" id="node14" href="$packet__io__stats_8h.html" title="ODP packet IO stats. " alt="" coords="199,155,335,181"/>
+<area shape="rect" id="node16" href="$spec_2queue_8h.html" title="ODP queue. " alt="" coords="359,155,434,181"/>
+<area shape="rect" id="node20" href="$queue__inline__types_8h_source.html" title="queue_inline_types.h" alt="" coords="458,155,618,181"/>
+<area shape="rect" id="node17" href="$queue_8h.html" title="ODP queue. " alt="" coords="357,229,431,256"/>
+<area shape="rect" id="node18" href="$spec_2schedule_8h.html" title="ODP schedule. " alt="" coords="348,304,440,331"/>
+<area shape="rect" id="node19" href="$schedule_8h.html" title="ODP schedule. " alt="" coords="348,379,440,405"/>
+<area shape="rect" id="node21" href="$queue__inlines_8h_source.html" title="queue_inlines.h" alt="" coords="469,229,593,256"/>
+</map>
